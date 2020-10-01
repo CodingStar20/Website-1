@@ -1,7 +1,7 @@
 # GreenClothaWay
 
 ## prerequisites
-`python >= 3.6`
+`python >= 3.6.10`
 
 `pip3 lts`
 
